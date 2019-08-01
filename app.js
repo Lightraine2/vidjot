@@ -1,7 +1,12 @@
 const express = require('express');
 const exphbs = require('express-handlebars');
+const mongoose = require('mongoose');
 
 const app = express();
+
+// Connect to db
+
+mongoose.connect('');
 
 // How middleware works - basically this is done every time a req is handled. You can assign variables here to add to request handling. You can assign authentication info here too. 
 
