@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://laurence:laurence@devconnect-l4dhe.mongodb.net/test?retryWrites=true",
+    "jwtSecret": "Sup3rS3cretT0ken",
+    "githubClientId": "ab9b9d712c37078d5612",
+    "githubSecret": "e60ffc5f736a486a55583a93c58e66045f3cf42a"
+}
